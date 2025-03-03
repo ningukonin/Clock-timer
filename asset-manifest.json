@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ningukonin/Clock-timer.git/static/css/main.74244e1d.css",
+    "main.js": "/ningukonin/Clock-timer.git/static/js/main.c9728850.js",
+    "static/js/453.aff8b812.chunk.js": "/ningukonin/Clock-timer.git/static/js/453.aff8b812.chunk.js",
+    "index.html": "/ningukonin/Clock-timer.git/index.html",
+    "main.74244e1d.css.map": "/ningukonin/Clock-timer.git/static/css/main.74244e1d.css.map",
+    "main.c9728850.js.map": "/ningukonin/Clock-timer.git/static/js/main.c9728850.js.map",
+    "453.aff8b812.chunk.js.map": "/ningukonin/Clock-timer.git/static/js/453.aff8b812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74244e1d.css",
+    "static/js/main.c9728850.js"
+  ]
+}
